@@ -1,0 +1,11 @@
+/root/hudi05/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/util/SchemaUtil.java
+/root/hudi05/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/NonPartitionedExtractor.java
+/root/hudi05/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/HiveSyncConfig.java
+/root/hudi05/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/PartitionValueExtractor.java
+/root/hudi05/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/SchemaDifference.java
+/root/hudi05/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/util/ColumnNameXLator.java
+/root/hudi05/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/HoodieHiveSyncException.java
+/root/hudi05/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/HoodieHiveClient.java
+/root/hudi05/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/MultiPartKeysValueExtractor.java
+/root/hudi05/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/HiveSyncTool.java
+/root/hudi05/incubator-hudi/hudi-hive/src/main/java/org/apache/hudi/hive/SlashEncodedDayPartitionValueExtractor.java

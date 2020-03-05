@@ -1,0 +1,18 @@
+#Thu Mar 05 21:21:45 CET 2020
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/main/java/com/uber/hoodie/hadoop/HoodieInputFormat.java=1583439477000
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/AbstractRealtimeRecordReader.java=1583439477000
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/test/resources/log4j-surefire-quiet.properties=1583439477000
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/RealtimeUnmergedRecordReader.java=1583439477000
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/HoodieRealtimeRecordReader.java=1583439477000
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/RecordReaderValueIterator.java=1583439477000
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/UseFileSplitsFromInputFormat.java=1583439477000
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/RealtimeCompactedRecordReader.java=1583439477000
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/HoodieRealtimeFileSplit.java=1583439477000
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/HoodieParquetSerde.java=1583439477000
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/HoodieParquetRealtimeInputFormat.java=1583439477000
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/main/java/com/uber/hoodie/hadoop/realtime/HoodieRealtimeInputFormat.java=1583439477000
+module-resource*?\:/root/hudi05/incubator-hudi/hudi-hadoop-mr/target/checkstyle-suppressions.xml=8D8F5336F98054DC2B1EAC538CCEE719E7161D3C
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/SafeParquetRecordReaderWrapper.java=1583439477000
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/test/resources/log4j-surefire.properties=1583439477000
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/TestHoodieROTablePathFilter.java=1583439477000
+configuration*?=BB8A72B88F02F73FBDF12A78F77A8C46674B18DA

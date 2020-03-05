@@ -1,0 +1,7 @@
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/TestHoodieParquetInputFormat.java
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/TestHoodieROTablePathFilter.java
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/TestAnnotation.java
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/InputPathHandlerTest.java
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/TestRecordReaderValueIterator.java
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/realtime/TestHoodieRealtimeRecordReader.java
+/root/hudi05/incubator-hudi/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/InputFormatTestUtil.java

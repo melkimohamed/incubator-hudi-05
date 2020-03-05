@@ -1,0 +1,9 @@
+/root/hudi05/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/DataSourceUtils.java
+/root/hudi05/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/keygen/ComplexKeyGenerator.java
+/root/hudi05/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/keygen/KeyGenerator.java
+/root/hudi05/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/payload/AWSDmsAvroPayload.java
+/root/hudi05/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/keygen/SimpleKeyGenerator.java
+/root/hudi05/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/keygen/GlobalDeleteKeyGenerator.java
+/root/hudi05/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/HoodieDataSourceHelpers.java
+/root/hudi05/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/keygen/NonpartitionedKeyGenerator.java
+/root/hudi05/incubator-hudi/hudi-spark/src/main/java/org/apache/hudi/QuickstartUtils.java
